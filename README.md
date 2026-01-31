@@ -1,4 +1,4 @@
-# FNOL NFC POC (Front-End Only)
+# FNOL NFC POC
 
 This is a front-end-only proof of concept for a mobile-first First Notification of Loss (FNOL) workflow, triggered by NFC, for motor vehicle insurance claims. The project is designed for demo purposes and is hosted on GitHub Pages.
 
